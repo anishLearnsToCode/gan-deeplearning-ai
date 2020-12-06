@@ -8,6 +8,7 @@ This is a specialization on
 which contains the following 3 courses:
 
 1. [Build Basic Generative Adversarial Networks](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) 
+   [:octocat:](https://github.com/anishLearnsToCode/build-basic-gan)
 1. [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
 1. [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
 
